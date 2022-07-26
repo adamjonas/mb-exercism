@@ -1,0 +1,86 @@
+address
+balance
+base58check
+bip
+bitcoin
+block
+blockchain
+block reward (aka coinbase reward)
+Byzantine Generals Problem
+candidate block
+coinbase (aka coinbase data)
+coinbase transaction
+cold storage
+confirmations
+consensus
+consensus rules
+difficulty
+difficulty retargeting
+difficulty target
+double-spending
+ECDSA
+extra nonce
+fees
+fork
+genesis block
+halving
+hard fork
+hardware wallet
+hash
+hashlocks
+HD protocol
+HD wallet
+HD wallet seed
+HTLC
+input
+KYC
+LevelDB
+Lightning Networks
+Locktime
+mempool
+merkle root
+merkle tree
+miner
+mining reward
+multisignature
+network
+nonce
+off-chain transactions
+opcode
+Open Assets protocol
+OP_RETURN
+OP_RETURN transaction
+orphan block
+orphan transactions
+output
+P2PKH
+P2SH
+P2SH address
+P2WPKH
+P2WSH
+paper wallet
+passphrase
+payment channels
+pooled mining
+Proof-of-Stake
+Proof-of-Work
+RPC
+RIPEMD-160
+satoshi
+Satoshi Nakamoto
+Script
+ScriptPubKey (aka pubkey script)
+ScriptSig (aka signature script)
+secret key (aka private key)
+Segregated Witness
+SHA
+Simplified Payment Verification (SPV)
+soft fork
+stale block
+timelocks
+transaction
+transaction pool
+Turing completeness
+unspent transaction output (UTXO)
+wallet
+Wallet Import Format (WIF)

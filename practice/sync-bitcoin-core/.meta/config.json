@@ -1,0 +1,10 @@
+{
+  "authors": ["willcl-ark"],
+  "files": {
+    "solution": [],
+    "test": [],
+    "example": []
+  },
+  "blurb": "Get a Bitcoin Core node downloaded, installed and syncing the Bitcoin Test network called 'Signet'."
+}
+

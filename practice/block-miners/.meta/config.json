@@ -1,0 +1,10 @@
+{
+  "authors": ["willcl-ark"],
+  "files": {
+    "solution": [],
+    "test": [],
+    "example": []
+  },
+  "blurb": "With knowledge of how the Bitcoin Core wallet operates, learn how to add a key to a wallet, initiate a re-scan of the Blockchain and sum the total Bitcoin sent to an address over time."
+}
+

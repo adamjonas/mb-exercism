@@ -1,0 +1,10 @@
+{
+  "authors": ["willcl-ark"],
+  "files": {
+    "solution": [],
+    "test": [],
+    "example": []
+  },
+  "blurb": "Make a connection to the Bitcoin Core RPC server and query it for some information."
+}
+
