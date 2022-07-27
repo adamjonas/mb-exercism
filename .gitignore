@@ -1,1 +1,4 @@
+*.swp
 .DS_Store
+bin/configlet
+bin/configlet.exe

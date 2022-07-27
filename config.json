@@ -1,0 +1,48 @@
+{
+    "language": "MB",
+    "slug": "mb",
+    "active": false,
+    "status": {
+      "concept_exercises": false,
+      "test_runner": false,
+      "representer": false,
+      "analyzer": false
+    },
+    "blurb": "TODO: add blurb",
+    "version": 3,
+    "online_editor": {
+      "indent_style": "space",
+      "indent_size": 4,
+      "highlightjs_language": "TODO: specify highlightjs language"
+    },
+    "files": {
+      "solution": [],
+      "test": [],
+      "example": [],
+      "exemplar": []
+    },
+    "exercises": {
+      "concept": [],
+      "practice": [
+        {
+          "slug": "hello-world",
+          "name": "Hello, World!",
+          "uuid": "2aee537b-6b23-4f02-ae8a-ff1718c8f112",
+          "practices": ["strings"],
+          "prerequisites": ["basics"],
+          "difficulty": 1
+        },
+        {
+            "slug": "block-miners",
+            "name": "Block Miners",
+            "uuid": "958d6f91-519f-4edb-924f-f3b75d060c55",
+            "practices": ["mining"],
+            "prerequisites": ["basics"],
+            "difficulty": 1
+        }
+      ]
+    },
+    "concepts": [],
+    "key_features": [],
+    "tags": ["used_for/financial_systems"]
+  }
